@@ -1,0 +1,82 @@
+
+.block
+{
+    max-width: 500px;
+    width: 100%;
+    position: relative;
+    margin: auto;
+    top:30%;
+    /* box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12); */
+}
+.sign-in {
+    padding: 20px;
+}
+.block-panel
+{
+        margin: 0;
+        color: #fff;
+}
+
+.login-panel h3
+{
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+.full
+{
+    max-width: 100%;
+    width: 100%;
+}
+#submit
+{
+    display: block;
+    margin: auto;
+}
+.container {
+    margin-top: 100px;
+}
+.forget
+{
+    display: block;
+    float: right;
+}
+.chk
+{
+    display: block;
+    float: left;
+}
+.footer-login
+{
+    display: block;
+    overflow: hidden;
+    margin-top: 20px;
+}
+.mdl-checkbox__label
+{
+    font-size: 12px !important;
+    color: #bbb;
+}
+
+
+.wide_buttons .button{
+    width: 100%;
+    display: block;
+    float: left;
+    border:0;
+    border-radius:30px;
+    margin: 10px 0px 10px 0px;
+    padding:15px 0px;
+    text-align:center;
+    text-decoration:none;
+    font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #ecf0f1;
+  }
+  .button:active{
+    position:relative;
+    top:6px;
+  }
+  .center {
+    margin: 0;
+    width: 100%;
+    padding: 1em;
+  }
